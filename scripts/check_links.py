@@ -8,7 +8,9 @@
 Liveness policy:
   2xx/3xx                       -> ok
   403/405/429                   -> warn (bot-blocked or rate-limited; reachable to humans)
-  404/410, other 4xx/5xx, DNS   -> FAIL (blocks the PR until a live/archived source is supplied)
+  404/410, other 4xx/5xx, DNS   -> FAIL, UNLESS the source carries a reachable archive_url,
+                                   in which case the citation survives via Wayback -> warn.
+                                   Only a dead primary AND a dead/absent archive blocks the gate.
 
 Usage:
   uv run scripts/check_links.py             # check every sources[].url in the corpus
@@ -107,6 +109,13 @@ def main() -> int:
         for src in record.get("sources", []):
             url = src["url"] if isinstance(src, dict) else src
             verdict, detail = probe(url)
+            # Link rot is expected; archive_url is the permanence mechanism (ADR-0004).
+            # A dead primary whose archive is still reachable degrades to a warning
+            # rather than blocking the gate.
+            if verdict == "fail" and isinstance(src, dict) and src.get("archive_url"):
+                arc_verdict, _ = probe(src["archive_url"])
+                if arc_verdict != "fail":
+                    verdict, detail = "warn", f"{detail}; primary dead, archive live"
             marker = {"ok": "ok  ", "warn": "WARN", "fail": "FAIL"}[verdict]
             print(f"{marker} [{path.stem}] {url} ({detail})")
             if verdict == "fail":
