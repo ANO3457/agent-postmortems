@@ -115,11 +115,13 @@ sources:
     publisher: Zenity Labs
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261010233937/https://labs.zenity.io/post/salesbleed-0-click-data-exfiltration-on-agentforce"
   - url: "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/"
     title: "'SalesBleed' Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration"
     publisher: SecurityWeek
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261008030758/https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/"
   - url: "https://www.salesforceben.com/lab-exposes-new-agentforce-data-exploit/"
     title: "Lab Exposes New Agentforce Data Exploit"
     publisher: Salesforce Ben

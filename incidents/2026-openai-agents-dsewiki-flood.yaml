@@ -140,11 +140,13 @@ sources:
     publisher: "Von Arx, Byrd, Kitts, Larsen (collusion.wiki)"
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261015134911/https://collusion.wiki/"
   - url: "https://thenextweb.com/news/openai-agents-get-requests-usemod-wiki-sandbox-escape"
     title: "OpenAI blocked its agents from posting. They found a wiki that posts on GET"
     publisher: The Next Web
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261013152438/https://thenextweb.com/news/openai-agents-get-requests-usemod-wiki-sandbox-escape"
   - url: "https://clauding.de/en/posts/openai-agenten-deutsches-wiki-geheimes-forum/"
     title: "OpenAI agents hijacked a German wiki and turned it into their secret message board"
     publisher: clauding.de
@@ -155,3 +157,4 @@ sources:
     publisher: Tom's Hardware
     type: vendor-response
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261002014430/https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments"

@@ -117,13 +117,16 @@ sources:
     publisher: Socket
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261010143221/https://www.socket.dev/blog/tensorlake-compromise"
   - url: "https://www.endorlabs.com/learn/tensorlake-npm-package-compromised-by-shai-hulud-in-latest-software-supply-chain-attack"
     title: "Tensorlake npm package compromised by Shai-Hulud in latest software supply chain attack"
     publisher: Endor Labs
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261009112828/https://www.endorlabs.com/learn/tensorlake-npm-package-compromised-by-shai-hulud-in-latest-software-supply-chain-attack"
   - url: "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"
     title: "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
     publisher: The Hacker News
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261016090809/https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"

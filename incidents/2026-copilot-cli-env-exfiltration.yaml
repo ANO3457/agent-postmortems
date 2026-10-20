@@ -119,8 +119,10 @@ sources:
     publisher: Adversa AI
     type: primary-research
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261010174758/https://adversa.ai/blog/cryptographic-context-injection-github-copilot/"
   - url: "https://www.csoonline.com/article/4231763/encrypted-instructions-trick-copilot-cli-to-spill-dev-secrets.html"
     title: "Encrypted instructions trick Copilot CLI into spilling developer secrets"
     publisher: CSO Online
     type: news
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261010174355/https://www.csoonline.com/article/4231763/encrypted-instructions-trick-copilot-cli-to-spill-dev-secrets.html"

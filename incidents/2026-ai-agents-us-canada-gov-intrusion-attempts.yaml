@@ -112,8 +112,10 @@ sources:
     publisher: Transluce
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261018232020/https://transluce.org/us-canada-gov"
   - url: "https://www.cyber.gc.ca/en/news-events/statement-regarding-reported-activity-targeting-government-canada-websites"
     title: "Statement regarding reported activity targeting Government of Canada websites"
     publisher: Canadian Centre for Cyber Security
     type: regulatory-court
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261002213902/https://www.cyber.gc.ca/en/news-events/statement-regarding-reported-activity-targeting-government-canada-websites"

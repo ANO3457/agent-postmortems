@@ -116,13 +116,16 @@ sources:
     publisher: Glow Labs
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261012012158/https://www.glow.io/blogs/how-ai-agents-exposed-developer-screenshots-from-leading-tech-companies"
   - url: "https://www.helpnetsecurity.com/2026/09/30/ai-coding-agents-github-screenshot-leak/"
     title: "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos"
     publisher: Help Net Security
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261013042353/https://www.helpnetsecurity.com/2026/09/30/ai-coding-agents-github-screenshot-leak/"
   - url: "https://www.bitdefender.com/en-us/blog/hotforsecurity/pixelleak-ai-coding-agents-github-screenshots"
     title: "PixelLeak exposes 13,000 internal screenshots on GitHub"
     publisher: Bitdefender
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261009092256/https://www.bitdefender.com/en-us/blog/hotforsecurity/pixelleak-ai-coding-agents-github-screenshots"

@@ -125,16 +125,19 @@ sources:
     publisher: arXiv
     type: academic
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261015020242/https://arxiv.org/abs/2609.21081"
   - url: "https://adithyanak.com/loopjacking-in-a2a-implementations/"
     title: "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals"
     publisher: Adithyan Arun Kumar
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261003224729/https://adithyanak.com/loopjacking-in-a2a-implementations/"
   - url: "https://github.com/adithyan-ak/loopjacking"
     title: "Loopjacking — evidence and reproduction archive"
     publisher: Adithyan Arun Kumar
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261020134200/https://github.com/adithyan-ak/loopjacking"
   - url: "https://www.pixee.ai/weekly-briefings/agents-ran-actions-nobody-approved-2026-09-30"
     title: "Agents Ran Actions Nobody Approved"
     publisher: Pixee

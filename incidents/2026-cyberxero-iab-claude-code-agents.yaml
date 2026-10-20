@@ -126,8 +126,10 @@ sources:
     publisher: SOCRadar
     type: primary-research
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261015070454/https://socradar.io/blog/cyberxero-ai-iab-ukraine-critical-infrastructure/"
   - url: "https://securityboulevard.com/2026/10/cyberxero-uses-ai-orchestration-layer-to-run-two-cyber-campaigns/"
     title: "CyberXero Uses AI Orchestration Layer to Run Two Cyber Campaigns"
     publisher: Security Boulevard
     type: news
     date_accessed: "2026-10-14"
+    archive_url: "https://web.archive.org/web/20261015064039/https://securityboulevard.com/2026/10/cyberxero-uses-ai-orchestration-layer-to-run-two-cyber-campaigns/"
