@@ -123,8 +123,10 @@ sources:
     publisher: TechCrunch (via Yahoo Tech)
     type: news
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261020144652/https://tech.yahoo.com/ai/deals/articles/grok-ai-agent-posted-founder-161757171.html"
   - url: "https://sfstandard.com/2026/10/19/ai-agent-craze-takes-over-sf"
     title: "Everyone in San Francisco has an AI agent now. Privacy be damned"
     publisher: The San Francisco Standard
     type: news
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261020144706/https://sfstandard.com/2026/10/19/ai-agent-craze-takes-over-sf/"

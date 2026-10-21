@@ -113,8 +113,10 @@ sources:
     publisher: Embrace The Red
     type: primary-research
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261005124224/https://embracethered.com/blog/posts/2025/google-jules-remote-code-execution-zombai/"
   - url: "https://labs.cloudsecurityalliance.org/research/csa-research-note-promptware-c2-agent-exploitation-20260406/"
     title: "Promptware: When Prompt Injection Becomes C2"
     publisher: Cloud Security Alliance
     type: academic
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261020144338/https://labs.cloudsecurityalliance.org/research/csa-research-note-promptware-c2-agent-exploitation-20260406/"

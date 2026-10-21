@@ -121,13 +121,16 @@ sources:
     publisher: Embrace The Red
     type: primary-research
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261005124220/https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/"
   - url: "https://embracethered.com/blog/posts/2025/openhands-remote-code-execution-zombai/"
     title: "ZombAI Exploit with OpenHands: Prompt Injection To Remote Code Execution"
     publisher: Embrace The Red
     type: primary-research
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20260905061331/https://embracethered.com/blog/posts/2025/openhands-remote-code-execution-zombai/"
   - url: "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/"
     title: "The Summer of Johann: prompt injections as far as the eye can see"
     publisher: Simon Willison
     type: news
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20260923124449/https://simonwillison.net/2025/Aug/15/the-summer-of-johann/"

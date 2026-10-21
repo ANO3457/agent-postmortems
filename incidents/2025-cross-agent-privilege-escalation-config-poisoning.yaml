@@ -124,8 +124,10 @@ sources:
     publisher: Embrace The Red
     type: primary-research
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20261001192622/https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/"
   - url: "https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/"
     title: "Cross-Agent Privilege Escalation: When Agents Free Each Other"
     publisher: Simon Willison
     type: news
     date_accessed: "2026-10-20"
+    archive_url: "https://web.archive.org/web/20260311123440/https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/"
